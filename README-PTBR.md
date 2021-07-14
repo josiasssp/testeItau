@@ -1,58 +1,39 @@
-# Título do projeto
+# Teste Web Itau
 
-Um parágrafo da descrição do projeto vai aqui
+Teste de nível para seleção em processo seletivo no banco Itaú.
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+No GitHub, navegue até a página principal do repositório.
 
-Consulte **Implantação** para saber como implantar o projeto.
+Acima da lista de arquivos, clique em  código.
+Botão de "Código"
+
+Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique em . Para clonar o repositório usando uma chave SSH, incluindo um certificado emitido pela autoridade certificada e SSH da sua organização, clique em Usar SSH e, em seguida, clique em . Para clonar um repositório usando GitHub CLI, clique em Usar GitHub CLI e, em seguida, clique em .
+O ícone da área de transferência para copiar a URL para clonar um repositório
+
+O ícone da área de transferência para copiar a URL para clonar um repositório com o CLI do GitHub
+
+Abra Terminal.
+
+Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
+
+Digite git clone (clonar git) e cole a URL que você copiou anteriormente.
+
+$ git clone https://github.com/josiasssp/testeItau.git
+Pressione Enter para criar seu clone local.
+
+$ git clone https://github.com/josiasssp/testeItau.git
+> Cloning into `testeItau`...
+> remote: Contando objetos: 10, concluído.
+> remote: Compactando objetos: 100% (8/8), concluído.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+* VSCODE 
 
-```
-Dar exemplos
-```
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
 
 ## 📦 Desenvolvimento
 
@@ -60,40 +41,8 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
-## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
 
 
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+* [VSCODE](https://code.visualstudio.com/)
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
